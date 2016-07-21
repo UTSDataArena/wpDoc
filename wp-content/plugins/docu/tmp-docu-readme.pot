@@ -1,0 +1,111 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Docu"
+msgstr ""
+
+#. Short description.
+msgid "A simple Documentation Plugin"
+msgstr ""
+
+#. Screenshot description.
+msgid "Docu Index page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Docu Single document"
+msgstr ""
+
+#. Screenshot description.
+msgid "Docu Single in admin"
+msgstr ""
+
+#. Screenshot description.
+msgid "Docu Sidebar Widget"
+msgstr ""
+
+#. Found in description header.
+msgid "Features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Order Doc Categories and Docs with drag and drop in the admin"
+msgstr ""
+
+#. Found in description list item.
+msgid "Docu Sidebar Widget that displays a search form and a list of all categories"
+msgstr ""
+
+#. Found in description list item.
+msgid "Flexible template system that allows template overrides in an upgrade safe way"
+msgstr ""
+
+#. Found in description list item.
+msgid "Well documented, it's a documentation plugin :)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Docu is a simple but flexible documentation plugin that allows you to document your products with ease.\n"
+"<a href=\"http://wp.dinamiko.com/demos/docu\">Docu Demo and Documentation</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin via WordPress.org"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload the ZIP file through the 'Plugins &gt; Add New &gt; Upload' screen in your WordPress dashboard"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installing \"Docu\" can be done either by searching for \"Docu\" via the \"Plugins &gt; Add New\" screen in your WordPress dashboard, or by using the following steps:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removes errors when no term is found  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Docu search form now search only for doc post type  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dashicons enqueued in load-js-css.php "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tested in WordPress 4.1.2 "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unnecessari parameters in apply_filters"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix a console error when masonry isn't loaded"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in remaining content header.
+msgid "Credits"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid "The creation of class-docu-template-loader.php was taken from a tutorial of pippinsplugins.com"
+msgstr ""
+
+#. Found in remaining content paragraph.
+msgid ""
+"This plugin uses Masonry and imagesloaded\n"
+"http://masonry.desandro.com\n"
+"https://github.com/desandro/imagesloaded"
+msgstr ""

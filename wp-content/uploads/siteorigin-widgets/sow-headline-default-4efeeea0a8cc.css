@@ -1,0 +1,16 @@
+.so-widget-sow-headline-default-4efeeea0a8cc #sow-headline-container.sow-headline h3 {
+  text-align: center;
+  color: #6d6d6d;
+  line-height: 1.4;
+}
+.so-widget-sow-headline-default-4efeeea0a8cc #sow-headline-container.sow-headline h6 {
+  text-align: center;
+  color: #c9c9c9;
+  line-height: 1.4;
+}
+.so-widget-sow-headline-default-4efeeea0a8cc #sow-headline-container.sow-headline .decoration {
+  border-top: thin solid #EEEEEE;
+  position: relative;
+  height: 1px;
+  margin: 20px 60px;
+}
